@@ -2,7 +2,6 @@
     "name": "fillup/fake-bower-assets",
     "description": "Use Composer \"replace\" to fake out installing bower-asset dependencies that aren't really needed",
     "type": "metapackage",
-    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
